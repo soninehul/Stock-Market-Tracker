@@ -1,0 +1,18 @@
+.stock-card{
+    background-color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 20px;
+    width: 250px;
+    border-radius: 10px;
+}
+h4{
+    margin-bottom: 20px;
+}
+ul{
+    list-style-type: none;
+}
+.delete-icon{
+    bottom: 162px;
+    left: 190px;
+}
