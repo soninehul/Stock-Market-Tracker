@@ -24,4 +24,4 @@ function EditStockQuantityForm({ id, task, editTodo, toggleEditForm }) {
     </form>
   );
 }
-export default EditTodoForm;
+export default EditStockQuantityForm;
