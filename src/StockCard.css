@@ -1,13 +1,17 @@
 .stock-card{
-    background-color: white;
-    margin-right: 10px;
+    
+    background-image: linear-gradient(top, rgb(86, 248, 80), rgb(86, 248, 80) 26.5%, white 26.5%, white 100%); 
+    background-image: -webkit-linear-gradient(top,rgb(86, 248, 80), rgb(86, 248, 80) 26.5%, white 26.5%, white 100%);
+    /* background-color: rgb(86, 248, 80);  */
+    box-shadow: 0px 9px 19px rgba(0, 0, 0, 0.5), 0px 8px 6px rgba(0, 0, 0, 0.3);
+    margin-right: 30px;
     margin-left: 10px;
     padding-top: 20px;
     width: 250px;
     border-radius: 10px;
 }
 h4{
-    margin-bottom: 20px;
+        margin-bottom: 20px;
 }
 ul{
     list-style-type: none;
